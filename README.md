@@ -1,5 +1,5 @@
 # cAiGED
-
+<!-- Subtitle -->
 ## Multimodal Edge-AI Guitar Chord Verification System
 
 **cAiGED** is a custom embedded Edge-AI platform designed to investigate whether an embedded system can combine **visual and acoustic information** to determine whether a guitar chord is being played correctly.
