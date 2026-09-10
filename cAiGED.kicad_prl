@@ -83,7 +83,7 @@
     "files": [
       {
         "name": "cAiGED.kicad_sch",
-        "open": true,
+        "open": false,
         "window": {
           "display": 1,
           "maximized": true,
